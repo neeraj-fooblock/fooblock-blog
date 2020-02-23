@@ -22,7 +22,7 @@ title: Fooblock blog
 email: info@fooblock.com
 description: >- # this means to ignore newlines until "baseurl:"
   As an expanding software and IT organization, we believe in a set of basic principles to maintain sanity during the blistering pace. These are our values, approach, process and expertise.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fooblock-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fooblock1
 github_username:  jekyll
